@@ -13,11 +13,11 @@
 - O jogador pode realizar uma ação extra durante seu turno, mas com uma penalidade de -1 em seu próximo ataque.
 **Descrição Atual**:
 - Aprendiz aprende a agir rapidamente em situações de risco, realizando uma ação extra, mas sacrificando um pouco da sua precisão na sequência.
-##### Uso Extra - Alteração
+##### Uso Garantido - Alteração
 **Efeito Proposto**:
-- O jogador pode usar um item extra durante seu turno. O item utilizado tem 50% de chance de não ser gasto.
+- O jogador pode garantir o uso de um item durante seu turno. O item utilizado tem 50% de chance de não ser gasto.
 **Descrição Proposta**:
-- O Aprendiz aprimora suas habilidades de manuseio de itens, permitindo que ele utilize um item extra durante seu turno.
+- O Aprendiz aprimora suas habilidades de manuseio de itens, permitindo que ele utilize um item durante seu turno.
 #### Olhos Atentos - Atual
 **Efeito Atual**:
 - O jogador percebe intenções assassinas e perigos iminentes com maior facilidade, ganhando vantagem em testes de percepção.
