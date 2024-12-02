@@ -1,0 +1,8 @@
+- **Arcanistas** (anteriormente Arcano)
+    - Foco em magias e habilidades mágicas.
+- **Estrategistas** (anteriormente Estratégia)
+    - Especialistas em táticas e planejamento.
+- **Protetores** (anteriormente Proteção)
+    - Mestres em defesa e proteção de aliados.
+- **Curandeiros** (anteriormente Suporte)
+    - Especializados em cura e suporte aos aliados.

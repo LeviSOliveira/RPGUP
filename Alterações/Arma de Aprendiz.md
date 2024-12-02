@@ -18,5 +18,6 @@
 **Efeito Proposto**:
 - Absorve **1d2 de dano** por ataque recebido.
 - Ao bloquear um ataque, realize um teste de resistência com CD variável (determinado pelo mestre). Se obtiver sucesso, o dano bloqueado será devolvido ao inimigo.
+- +1 em Resistência
 **Descrição Proposta**:
 - Um escudo robusto para iniciantes, capaz de absorver parte do dano de ataques inimigos. Sua estrutura simples permite devolver o dano bloqueado aos inimigos em situações favoráveis, tornando-o uma ferramenta versátil de defesa.
