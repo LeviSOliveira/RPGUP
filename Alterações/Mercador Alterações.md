@@ -46,4 +46,4 @@
 **Descrição Proposta**:
 - Um bastão que reflete a natureza gananciosa do Mercador, permitindo-lhe converter suas riquezas em poder ofensivo.
 **Efeito Proposto**:
-- Causa **1d3 de dano** + a quantia de moedas de ouro no inventário do Mercador.
+- Causa **1d3 de dano mágico** + a quantia de moedas de ouro no inventário do Mercador + modificador de Arcano.
