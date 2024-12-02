@@ -15,7 +15,7 @@
 - Aprendiz aprende a agir rapidamente em situações de risco, realizando uma ação extra, mas sacrificando um pouco da sua precisão na sequência.
 ##### Uso Garantido - Alteração
 **Efeito Proposto**:
-- O jogador pode garantir o uso de um item durante seu turno. O item utilizado tem 50% de chance de não ser gasto.
+- O jogador utiliza um item em conjunto que realiza uma ação ou habilidade. O item utilizado tem 50% de chance de não ser gasto.
 **Descrição Proposta**:
 - O Aprendiz aprimora suas habilidades de manuseio de itens, permitindo que ele utilize um item durante seu turno.
 #### Olhos Atentos - Atual
