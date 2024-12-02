@@ -31,12 +31,24 @@
 - Cada jogador pode ter até 4 itens em seu inventário.
 
 **Proposta de Alteração**:
-- Manter o limite de **4 itens**, com a possibilidade de comprar expansores de itens na loja:
-    - **Expansores de Itens**:
-        - Primeiro expansor: aumenta para 6 itens (5 ouros).
-        - Segundo expansor: aumenta para 8 itens (8 ouros).
-        - Terceiro expansor: aumenta para 10 itens (14 ouros).
+- Cada jogador pode carregar até **1 do mesmo item** e até **4 itens divergentes** inicialmente.
+- O jogador pode comprar expansores de itens na loja para aumentar a capacidade de itens divergentes e quantidades do mesmo item.
 
-**Racionalização**:
-- Manter um limite base de 4 itens garante que os jogadores comecem com uma quantidade gerenciável, mas permite flexibilidade e crescimento conforme avançam no jogo.
-- A introdução de expansores de itens na loja oferece uma maneira lógica e progressiva de aumentar a capacidade de carga, incentivando os jogadores a investir estrategicamente seus recursos.
+### **Expansores de Itens**
+1. **Itens Divergentes**:
+    - **Primeiro expansor**: aumenta para **6 itens** divergentes (5 ouros).
+    - **Segundo expansor**: aumenta para **8 itens** divergentes (8 ouros).
+    - **Terceiro expansor**: aumenta para **10 itens** divergentes (14 ouros).
+2. **Quantidade do Mesmo Item**:
+    - Aumento para **2 do mesmo item**: 6 ouros.
+    - Aumento para **3 do mesmo item**: 9 ouros.
+    - Aumento para **4 do mesmo item**: 12 ouros.
+    - Aumento para **5 do mesmo item**: 16 ouros.
+
+### **Racionalização das Alterações**
+1. **Equilíbrio**:
+    - Limitar a quantidade inicial de itens carregados e permitir expansões pagas promove um jogo mais equilibrado e desafia os jogadores a gerenciar seus recursos de forma eficaz.
+2. **Progressão**:
+    - A possibilidade de expandir o inventário e a quantidade de itens iguais permite uma progressão lógica e estratégica, incentivando os jogadores a investir seus recursos sabiamente.
+3. **Flexibilidade**:
+    - Os jogadores têm a flexibilidade de expandir tanto a diversidade quanto a quantidade de itens, ajustando suas estratégias conforme necessário para enfrentar diferentes desafios.

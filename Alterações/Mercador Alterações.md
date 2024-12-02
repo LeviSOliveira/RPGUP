@@ -33,7 +33,7 @@
 **Proposta de Alteração**
 - **Nome Proposto**: **Contrato Pós Morte**
 - **Descrição Proposta**: O Mercador pode fazer um contrato especial que permite a ressurreição de um aliado em troca de parte das recompensas do aliado.
-- **Efeito Proposto**: Se um aliado morrer, o Mercador pode criar um contrato que o revive com 80% da vida a custo de **40% de suas recompensas no fim da missão**.
+- **Efeito Proposto**: Se um aliado morrer, o Mercador pode criar um contrato que o revive com 80% da vida a custo de **40% de suas recompensas no fim da missão**. **Apenas uma vez por cenário**.
 ### **Equipamento do Mercador - Bastão da Ganância**
 **Descrição Atual (Bastão dos Negócios)**:
 - Um bastão sofisticado que simboliza a autoridade e o carisma do Mercador, facilitando negociações e melhorando sua capacidade de liderança.
