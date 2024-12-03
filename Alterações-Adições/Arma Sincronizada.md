@@ -28,3 +28,30 @@
 7. **Limitadores**:
     - **Descrição**: Armas Sincronizadas que possuem limitadores podem ser colocadas no inventário e sincronizadas com o jogador sem que os requisitos sejam atendidos. Quando isso ocorre, os limitadores são ativados, restringindo o poder total da arma.
     - **Exemplo**: Uma arma que requer um alto nível de Arcano para liberar todo o seu potencial, mas pode ser usada com efeito reduzido se o requisito não for atendido.
+
+### **Níveis de Raridade**
+
+**Rara**:
+- **Componentes**:
+    - Habilidades
+    - Bônus
+    - Ataques (sem passiva relacionada ao ataque)
+
+**Épica**:
+- **Componentes**:
+    - Habilidades Evolutivas
+    - Efeitos Passivos
+    - Passiva Relacionada ao Ataque
+    - (Inclui componentes do nível Raro)
+
+**Lendária**
+- **Componentes**:
+    - Efeitos Ativos
+    - Limitadores
+    - (Inclui componentes dos níveis Raro e Épico)
+
+**Divinas**:
+- **Componentes**:
+    - Missão de Arma para liberar a Habilidade Divina
+    - Ataque Especial da Arma
+    - (Inclui componentes dos níveis Raro, Épico e Lendário)

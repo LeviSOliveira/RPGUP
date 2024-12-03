@@ -52,7 +52,7 @@ Os Sacerdotes da Dualidade são mestres na arte de balancear forças divinas e d
 	Efeito: O inimigo acertado recebe 1 + modificador de Sinergia de dano por 2 turnos.
 	Recarga: 2 turnos.
 ## Equipamento Inicial
-- **Auréola da Dualidade** (Efeitos Passivos)
+- **Auréola da Dualidade** (Arma Sincronizada - Rara)
 	Descrição: Uma auréola que representa o equilíbrio entre o divino e o demoníaco, oferecendo poderes variados dependendo da sorte.
 	Efeito: Ao utilizar a auréola, role 1d4:
 - **Número Par - Auréola Divina**:
