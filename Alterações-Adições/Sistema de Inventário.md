@@ -31,7 +31,7 @@
 - Cada jogador pode ter até 4 itens em seu inventário.
 
 **Proposta de Alteração**:
-- Cada jogador pode carregar até **1 do mesmo item** e até **4 itens divergentes** inicialmente.
+- Cada jogador pode carregar até **2 do mesmo item** e até **4 itens divergentes** inicialmente.
 - O jogador pode comprar expansores de itens na loja para aumentar a capacidade de itens divergentes e quantidades do mesmo item.
 
 ### **Expansores de Itens**
@@ -40,10 +40,9 @@
     - **Segundo expansor**: aumenta para **8 itens** divergentes (8 ouros).
     - **Terceiro expansor**: aumenta para **10 itens** divergentes (14 ouros).
 2. **Quantidade do Mesmo Item**:
-    - Aumento para **2 do mesmo item**: 6 ouros.
-    - Aumento para **3 do mesmo item**: 9 ouros.
-    - Aumento para **4 do mesmo item**: 12 ouros.
-    - Aumento para **5 do mesmo item**: 16 ouros.
+    - Aumento para **3 do mesmo item**: 10 ouros.
+    - Aumento para **4 do mesmo item**: 14 ouros.
+    - Aumento para **5 do mesmo item**: 18 ouros.
 
 ### **Racionalização das Alterações**
 1. **Equilíbrio**:
