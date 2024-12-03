@@ -1,4 +1,4 @@
-### **Sistema de Cenários - Adições**
+
 ### **Contador de Tempo dos Cenários**
 1. **Curto**:
     - **Duração**: 3 ou 4 sessões
@@ -24,11 +24,3 @@
     - A experiência do jogo foi calculada para 6 jogadores.
     - No entanto, cada cenário tem o requisito mínimo de jogadores definido pelo Mestre.
     - Máximo de 6 jogadores por cenário.
-
-### **Racionalização das Adições**
-1. **Contador de Tempo**:
-    - Definir a duração dos cenários ajuda os jogadores a planejar suas campanhas e compromissos, garantindo uma melhor gestão do tempo e expectativas.
-2. **Mostrador de Dificuldade**:
-    - O sistema de multiplicadores de recompensa baseado na dificuldade incentiva os jogadores a escolherem desafios apropriados ao seu nível de habilidade e preferência de risco/recompensa.
-3. **Requisitos de Jogadores**:
-    - Especificar os requisitos mínimos e máximos de jogadores permite uma melhor adaptação dos cenários, garantindo que a experiência seja equilibrada e apropriada ao número de participantes disponíveis.

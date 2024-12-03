@@ -8,7 +8,7 @@ Os assassinos são o repúdio da sociedade, aqueles que optaram por um caminho s
 	Descrição: O Assassino aplica um golpe preciso que faz o inimigo sangrar.
 	Efeito: O próximo ataque do Assassino causa Sangramento no inimigo, causando 1d2 de dano por 2 turnos.
 	Recarga: 2 turnos.
-- Fuga Rápida
+- Dano Negado
 	Descrição: Ao falhar em um teste de esquiva, o Assassino usa sua agilidade para reduzir os danos recebidos.
 	Efeito: Caso o Assassino falhe em um teste de esquiva, ele pode usar essa habilidade para reduzir -2 de dano no ataque recebido.
 	Recarga: 3 turnos.
@@ -18,7 +18,7 @@ Os assassinos são o repúdio da sociedade, aqueles que optaram por um caminho s
 	Recarga: 1 turno.
 - Ataque Subsequente (Passiva)
 	Descrição: O Assassino tem a habilidade de eliminar rapidamente inimigos enfraquecidos.
-	Efeito: Caso o Assassino realize um ataque e o inimigo esteja com pouca vida, ele pode realizar um ataque extra para finalizá-lo. Só pode ser usada em inimigos com menos de 10% da vida.
+	Efeito: Caso o Assassino realize um ataque e o inimigo esteja com pouca vida, ele pode realizar um ataque extra para finalizá-lo. Só pode ser usada em inimigos com menos de 20% da vida.
 ## Equipamento Inicial
 - Adaga do Lutador
 	Descrição: Uma adaga balanceada, ideal para combate corpo a corpo. Feita para cortes rápidos e ataques decisivos.
