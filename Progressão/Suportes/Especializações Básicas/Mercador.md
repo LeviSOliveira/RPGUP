@@ -17,7 +17,7 @@ Mesmo com pouca experiência em combate, o Mercador compensa sua falta de poder 
 	Efeito: O Mercador recebe 10% a mais de dinheiro das recompensas obtidas em missões.
 - Contrato Pós Morte
 	Descrição: O Mercador pode fazer um contrato especial que permite a ressurreição de um aliado em troca de parte das recompensas do aliado.
-	Efeito: Se um aliado morrer, o Mercador pode criar um contrato que o revive com 80% da vida a custo de 40% de suas recompensas no fim da missão. Apenas uma vez por cenário.
+	Efeito: Se um aliado morrer, o Mercador pode criar um contrato que o revive com 80% da vida a custo de 50% de suas recompensas no fim da missão. Apenas uma vez por cenário.
 ## Equipamento Inicial
 - Bolsa Espacial do Mercador
 	Descrição: Uma bolsa encantada que permite ao Mercador guardar seus lucros de forma segura e mágica, rendendo juros após missões.
