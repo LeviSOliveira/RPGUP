@@ -1,4 +1,4 @@
-A especialização **Parallel** abrange caminhos não convencionais, combinando múltiplos focos ou introduzindo mecânicas completamente novas. Recomendadas para jogadores experientes, essas especializações oferecem evoluções e sistemas únicos que desafiam as expectativas tradicionais. Experiência experimental de tentativa de fuga de padrão, não totalmente criados e sujeitos a uma série de alterações; porém, estará disponível nos playtests.
+A especialização Parallel abrange caminhos não convencionais, combinando múltiplos focos ou introduzindo mecânicas completamente novas. Recomendadas para jogadores experientes, essas especializações oferecem evoluções e sistemas únicos que desafiam as expectativas tradicionais. Experiência experimental de tentativa de fuga de padrão, não totalmente criados e sujeitos a uma série de alterações; porém, estará disponível nos playtests.
 
 ### 1. Religiosos
 Os Religiosos são devotos fervorosos que canalizam poderes de entidades divinas caídas. Possuem ligação direta com antigos entes superiores, podendo acessar habilidades extraordinárias que vão além de limites mortais.
