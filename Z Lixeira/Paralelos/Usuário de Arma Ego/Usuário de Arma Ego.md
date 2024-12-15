@@ -1,4 +1,4 @@
-## Características Específicas
+# Características Específicas
 ### 1. Recebem Arma Ego desde o Início do Jogo
 - Descrição: Quando um jogador escolhe a especialização Parallel e a classe Usuário de Arma Ego, ele recebe sua Arma Ego no início do jogo, sem passar pela fase de aprendiz.
 	
