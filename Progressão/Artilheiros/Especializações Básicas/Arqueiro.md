@@ -20,7 +20,7 @@ Os Arqueiros, desde o início de sua jornada, dedicam-se ao aprimoramento da pre
 	Descrição: Ao ativar essa habilidade, o Arqueiro pode saltar para trás em até 10 metros, ganhando distância entre ele e o inimigo.
 	Efeito: Movimento de até 10 metros para trás.
 	Recarga: 2 turnos.
-## Equipamento Inicial
+## Equipamento
 - Arco de Nogueira
 	Descrição: Um arco de madeira de baixa qualidade, menos resistência e com boa curvatura.
 	Efeito: Causa 1d6 de dano à distância.
