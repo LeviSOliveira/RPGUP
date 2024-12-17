@@ -15,12 +15,12 @@
     - **Vida mínima**: 2.
     - **Vida máxima**: 4.
 - **Combatente e Artilheiro**:
-    - Ao subir de nível, esses jogadores aumentam a vida em **3 + 1d2**.
+    - Ao subir de nível, esses jogadores aumentam a vida em **2 + 1d3**.
     - **Vida mínima**: 3.
     - **Vida máxima**: 5.
 - **Proteção**:
-    - Ao subir de nível, esses jogadores aumentam a vida em **4 + 1d2**.
-    - **Vida mínima**: 4.
+    - Ao subir de nível, esses jogadores aumentam a vida em **2 + 1d4**.
+    - **Vida mínima**: 3.
     - **Vida máxima**: 6.
 ### **Vida Inicial por Especialização**
 Todos os jogadores começam como Aprendiz, mas já escolhem uma especialização que afeta a vida inicial:
