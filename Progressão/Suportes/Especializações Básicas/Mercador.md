@@ -6,7 +6,7 @@ Mesmo com pouca experiência em combate, o Mercador compensa sua falta de poder 
 ## Habilidades do Mercador
 - Custo Curativo
 	Descrição: O Mercador utiliza seus recursos financeiros para adquirir medicamentos e curar rapidamente um aliado ferido.
-	Efeito: Gaste 1 moeda de prata para curar 4 + modificador de Sinergia pontos de vida de um aliado.
+	Efeito: Gaste 2 moeda de prata para curar 3 + modificador de Sinergia pontos de vida de um aliado.
 	Recarga: 2 turnos.
 - Benefício Custoso
 	Descrição: O Mercador investe em melhorias temporárias para um aliado, aumentando sua eficiência em combate ou suporte.
@@ -14,7 +14,7 @@ Mesmo com pouca experiência em combate, o Mercador compensa sua falta de poder 
 	Recarga: 3 turnos.
 - Mercado Fixo (Passiva)
 	Descrição: O Mercador, graças à sua habilidade de barganhar, consegue comprar itens a um preço mais baixo nas lojas.
-	Efeito: O Mercador recebe 10% a mais de dinheiro das recompensas obtidas em missões.
+	Efeito: O Mercador gasta 20% a menos em compras de itens na loja.
 - Contrato Pós Morte
 	Descrição: O Mercador pode fazer um contrato especial que permite a ressurreição de um aliado em troca de parte das recompensas do aliado.
 	Efeito: Se um aliado morrer, o Mercador pode criar um contrato que o revive com 80% da vida a custo de 50% de suas recompensas no fim da missão. Apenas uma vez por cenário.
