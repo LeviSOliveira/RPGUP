@@ -10,6 +10,7 @@
 | Segundo Expansor  | 6 itens           | 8             |
 | Terceiro Expansor | 7 itens           | 14            |
 | Quarto Expansor   | 8 itens           | 23            |
+
 **Quantia do Mesmo Item**
 
 | Expansor          | Mesmo Itens | Custo (Ouros) |
