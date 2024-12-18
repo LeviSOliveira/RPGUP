@@ -59,3 +59,5 @@
 ##### Aviso:
 - Os componentes são o padrão de se ter, mas não são obrigatórios. Exceto pela raridade Divina, todas as outras raridades não garantem a presença de todos os componentes.
 - Cada jogador pode ter no máximo 1 arma sincronizada, que só pode ser substituída por uma de raridade maior.
+
+## Armas de Herança
