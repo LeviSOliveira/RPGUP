@@ -6,6 +6,7 @@
 - Os bônus de armas também são incluídos nesse cálculo, mas de forma separada.
 - Observação: Atributos com 0 não conta no intervalo de 3 pontos.
 ### **Detalhamento das Alterações**
+### **Detalhamento das Alterações**
 **Atributos**:
 - Para cada intervalo de 3 pontos em um atributo, o jogador recebe um modificador de +1.
 - Exemplo: Um jogador com 1 a 3 pontos de atributo tem um modificador de +1.
