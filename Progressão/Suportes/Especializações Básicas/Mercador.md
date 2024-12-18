@@ -21,7 +21,7 @@ Mesmo com pouca experiência em combate, o Mercador compensa sua falta de poder 
 ## Equipamento Inicial
 - Bolsa Espacial do Mercador
 	Descrição: Uma bolsa encantada que permite ao Mercador guardar seus lucros de forma segura e mágica, rendendo juros após missões.
-	Efeito: Permite armazenar até 10 moedas de ouro. Após completar uma missão, o dinheiro dentro da bolsa rende 5%, aumentando a quantia total.
+	Efeito: Permite armazenar até 10 moedas de ouro. Após completar uma missão, o dinheiro dentro da bolsa rende 10%, aumentando a quantia total.
 	Bônus: +2 em Sinergia.
 - Bastão da Ganância
 	Descrição: Um bastão que reflete a natureza gananciosa do Mercador, permitindo-lhe converter suas riquezas em poder ofensivo.
