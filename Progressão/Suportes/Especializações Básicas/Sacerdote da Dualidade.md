@@ -1,7 +1,7 @@
 Descrição:
 Os Sacerdotes da Dualidade são mestres na arte de balancear forças divinas e demoníacas. Desde o início, aprendem a dar ênfase à dualidade, escolhendo entre o Divino e o Demoníaco para moldar seu caminho.
 -> Renascimento Divergente (Passiva)
-- Ao morrer pela primeira vez em um cenário, role 1d4. Se cair um número par, renasce com a vida completa mas sem poder realizar ataques por 2 turnos. Se cair um número ímpar, renasce com 1 de vida e causa 50% a mais de dano por 2 turnos.
+- Ao morrer pela primeira vez em um cenário, role 1d4. Se cair um número par, renasce com a vida completa mas sem poder realizar ataques por 2 turnos. Se cair um número ímpar, renasce com 1 de vida e causa 50% a mais de dano e cura por 2 turnos.
 ## Habilidades do Sacerdote
 - Ira Divina
 	Descrição: Ao ativar essa habilidade, desacelera todos os inimigos em um raio de 4 metros.
@@ -18,7 +18,7 @@ Os Sacerdotes da Dualidade são mestres na arte de balancear forças divinas e d
 	Descrição: Imbui seu próximo ataque com fogo demoníaco.
 	Efeito: O inimigo acertado recebe 1 + modificador de Sinergia de dano por 2 turnos.
 	Recarga: 2 turnos.
-## Equipamento Inicial
+## Equipamento
 - Auréola da Dualidade (Arma Sincronizada - Rara)
 	Descrição: Uma auréola que representa o equilíbrio entre o divino e o demoníaco, oferecendo poderes variados dependendo da sorte.
 	Efeito: Ao utilizar a auréola, role 1d4:
