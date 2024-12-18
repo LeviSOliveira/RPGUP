@@ -77,7 +77,7 @@ Aviso: Armas de Aprendiz não podem ser vendidas. O dano das armas é afetado pe
 ## Itens Iniciais
 - Antídoto
 	Efeito: Cura para qualquer efeito de status negativo.
-- Poção Simples
+- Poção de Cura Simples
 	Efeito: Recupera 2 pontos de vida ao usado.
 - Kit de Ladrão Simples
 	Efeito: Desarma armadilhas, abre trancas e fechaduras.
