@@ -1,1 +1,2 @@
 Relacionado com: [[Árvore do Suporte]]
+O ramo Religião Existencial concentra-se nas interações entre forças divinas e demoníacas, oferecendo ao Suporte a capacidade de curar e causar dano com igual eficácia. Este caminho permite o controle de área tanto em cura quanto em dano, proporcionando uma flexibilidade única para adaptar-se a diferentes situações no campo de batalha.
