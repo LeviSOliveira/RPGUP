@@ -5,11 +5,11 @@
 		{"id":"98d42b4c191f13cf","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Ramo - RE.md","x":-200,"y":-1840,"width":400,"height":400},
 		{"id":"be5bf6c1f569446c","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Humano.md","x":80,"y":-280,"width":400,"height":400},
 		{"id":"48515b752cf692e2","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Humano.md","x":-480,"y":-280,"width":400,"height":400},
-		{"id":"734ba2b80794cbdd","x":560,"y":-280,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Divino.md"},
-		{"id":"b8038ea02acc8850","x":-960,"y":-280,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Demoníaco.md"},
+		{"id":"734ba2b80794cbdd","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Divino.md","x":560,"y":-280,"width":400,"height":400},
+		{"id":"b8038ea02acc8850","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Demoníaco.md","x":-960,"y":-280,"width":400,"height":400},
 		{"id":"6723599fa274b815","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Demoníaco - Ápice Danoso.md","x":-1320,"y":-960,"width":560,"height":400},
-		{"id":"82f51eb6dfba40c9","x":1120,"y":-280,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Divino.md"},
-		{"id":"01f9a2582e7d51a9","x":-1520,"y":-280,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Demoníaco.md"}
+		{"id":"82f51eb6dfba40c9","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Divino.md","x":1120,"y":-280,"width":400,"height":400},
+		{"id":"01f9a2582e7d51a9","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Demoníaco.md","x":-1520,"y":-280,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"5f8fd4bf4c854a2a","fromNode":"98d42b4c191f13cf","fromSide":"left","toNode":"6723599fa274b815","toSide":"top"},
