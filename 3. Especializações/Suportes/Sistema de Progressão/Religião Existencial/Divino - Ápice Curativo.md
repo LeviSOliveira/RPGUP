@@ -1,1 +1,2 @@
 Relacionado a: [[Ramo - RE]]
+No marco divino, o Suporte alcança o auge de suas habilidades curativas, manipulando energias divinas para trazer grandes bênçãos aos aliados. Este marco representa a supremacia das habilidades de cura, permitindo que o Suporte mantenha seus aliados vivos e fortes nas situações mais difíceis.

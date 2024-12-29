@@ -1,1 +1,2 @@
 Relacionado a: [[Ramo - RE]]
+No marco demoníaco, o Suporte aprende a manipular energias sombrias para causar grandes danos aos inimigos, mantendo ainda a capacidade de apoiar seus aliados de formas únicas. Este marco representa a supremacia das habilidades danosas, permitindo que o Suporte elimine ameaças de maneira eficiente.
