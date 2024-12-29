@@ -1,3 +1,9 @@
+Relacionado com: [[Árvore do Estrategista]]
+Relacionado com: [[Árvore do Suporte]]
+Relacionado com: [[Árvore do Protetor]]
+Relacionado com: [[Árvore do Combatente]]
+Relacionado com: [[Árvore do Arcanista]]
+Relacionado com: [[Árvore do Artilheiro]]
 O Aprendiz é a classe inicial para todos os jogadores. Ainda não especializado, o Aprendiz possui acesso a habilidades genéricas e versáteis, permitindo que ele explore diferentes estilos de jogo antes de escolher sua especialização.
 ## 8 Atributos Básicos
 1. Constituição
