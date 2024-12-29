@@ -1,1 +1,0 @@
-Relacionado a: [[Religião Existencial]]
