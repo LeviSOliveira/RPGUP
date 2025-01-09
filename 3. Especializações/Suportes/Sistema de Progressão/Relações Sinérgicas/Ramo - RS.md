@@ -1,0 +1,2 @@
+Relacionado com: [[Árvore do Suporte]]
+O ramo Relação Sinérgica explora a profunda conexão entre o Suporte e o atributo Sinergia, que é o seu principal atributo. Sinergia afeta a eficiência curativa, os efeitos de controle de grupo e a percepção de riscos ou de movimentações estranhas no ar, como presenças demoníacas e divinas. Este ramo permite ao Suporte aprimorar suas habilidades e sua percepção, criando uma sinergia poderosa entre suas ações e o ambiente.

@@ -1,0 +1,2 @@
+Relacionado com: [[Árvore do Suporte]]
+O ramo Alquimia Estranha é voltado para Suportes que utilizam o conhecimento alquímico para manipular substâncias e criar misturas poderosas. Esses suportes são mestres na transformação de ingredientes em poções, elixires e substâncias que podem curar aliados, fortalecer defesas ou causar dano aos inimigos de maneiras inesperadas. A abordagem pouco ortodoxa da alquimia resulta em efeitos únicos e imprevisíveis, tornando este ramo uma escolha intrigante para aqueles que buscam versatilidade no campo de batalha.

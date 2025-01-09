@@ -6,39 +6,31 @@ Relacionado com: [[Árvore do Arcanista]]
 Relacionado com: [[Árvore do Artilheiro]]
 O Aprendiz é a classe inicial para todos os jogadores. Ainda não especializado, o Aprendiz possui acesso a habilidades genéricas e versáteis, permitindo que ele explore diferentes estilos de jogo antes de escolher sua especialização.
 ## 8 Atributos Básicos
-1. Constituição
-	Efeito: Afeta os Pontos de Vida (PV) máximos.
-	Categoria Relacionada: Todas as categorias.
-	Detalhe: Quanto maior a Constituição, mais difícil será derrubar o personagem, já que ele possui mais vida.
-2. Existência
-	Efeito: Representa sua proximidade com o Divino ou Demoníaco. Afeta a ordem de turnos no combate.
-	Categoria Relacionada: Todas as categorias.
-	Detalhe: Existência é um atributo dado ao jogador com base na interpretação de sua existência pelo Mestre.
-3. Combate
-	Efeito: Aumenta o dano de ataques físicos, capacidade de utilizar armas pesadas e sentidos.
-	Categoria Relacionada: Combatente.
-	Detalhe: Importante para classes focadas em combate corpo a corpo, aumentando o impacto de cada golpe.
-4. Precisão
-	Efeito: Aumenta o dano de ataques longa distância, evasão de ataques e furtividade, além de melhorar a habilidade com armas rápidas.
-	Categoria Relacionada: Artilharia.
-	Detalhe: Essencial para quem usa arcos, bestas ou armas de fogo, e também para aqueles que preferem esquivar ao invés de bloquear.
-5. Arcana
-	Efeito: Aumenta a eficácia de habilidades mágicas, dano de magias ofensivas e controle.
-	Categoria Relacionada: Arcano.
-	Detalhe: Crucial para aqueles que se especializam em feitiçaria, magias ofensivas e efeito de status negativos.
-6. Sinergia
-	Efeito: Aumenta a eficácia de habilidades de suporte, percepção de risco e de controle.
-	Categoria Relacionada: Suporte.
-	Detalhe: Ideal para classes que curam, protegem aliados, lidam com efeito de status positivos.
-7. Liderança
-	Efeito: Aumenta a capacidade de influenciar outros personagens, como em negociações ou interações sociais. Também impacta a eficácia de habilidades de comando.
-	Categoria Relacionada: Estratégia.
-	Detalhe: Fundamental para personagens que lideram, realizam manipulações sociais ou tentam convencer NPCs, afetando também o moral do grupo.
-8. Resistência
-	Efeito: Afeta a resistência a efeitos adversos e a capacidade de suportar dano.
-	Categoria Relacionada: Proteção.
-	Detalhe: Crucial para permanecer vivo em batalhas duradouras.
-Aviso: Cada jogador começa com 12 pontos para distribuir nos atributos, podendo colocar no máximo 3 pontos em um específico no inicio. 
+Vitalidade:
+- Efeito: Afeta os Pontos de Vida (PV) máximos. Cada ponto adicional em Vitalidade aumenta 5 PV.
+- Descrição: Quanto maior a Vitalidade, mais difícil será derrubar o personagem, já que ele possui mais vida.
+Existência:
+- Efeito: Representa sua proximidade com o Divino ou Demoníaco. Afeta interações sociais e desbloqueio de cenários secretos.
+- Descrição: Existência é um atributo dado ao jogador com base na interpretação de sua existência pelo Mestre.
+Combate:
+- Efeito: Aumenta o dano de ataques físicos, capacidade de utilizar armas pesadas, sentidos e esquiva.
+- Descrição: Importante para classes focadas em combate corpo a corpo, aumentando o impacto de cada golpe.
+Precisão:
+- Efeito: Aumenta o dano de ataques de longa distância, percepção, furtividade, eficiência de armadilhas e rastreamento.
+- Descrição: Essencial para quem usa arcos, bestas ou armas de fogo, e também para aqueles que preferem esquivar ao invés de bloquear.
+Arcano:
+- Efeito: Aumenta a eficácia de habilidades mágicas, dano de magias ofensivas, conhecimento.
+- Descrição: Crucial para aqueles que se especializam em feitiçaria e magias ofensivas.
+Sinergia:
+- Efeito: Aumenta a eficácia de habilidades de suporte, percepção de risco e de controle.
+- Descrição: Ideal para classes que curam, protegem aliados, lidam com efeito de status positivos e negativos.
+Liderança:
+- Efeito: Aumenta a capacidade de influenciar outros personagens, como em negociações ou interações sociais. Impacta a eficácia de habilidades de comando. Influencia capacidades mercantis, administrativas e influencia iniciativa.
+- Descrição: Fundamental para personagens que lideram, realizam manipulações sociais ou tentam convencer NPCs, afetando também o moral do grupo.
+Resistência:
+- Efeito: Afeta a resistência a efeitos adversos e a capacidade de suportar dano.
+- Descrição: Crucial para permanecer vivo em batalhas duradouras.
+Aviso: Cada jogador começa com 20 pontos para distribuir nos atributos, podendo colocar no máximo 4 pontos em um específico no inicio. 
 
 ## Habilidades do Aprendiz
 1. Mente Fria
@@ -48,7 +40,7 @@ Aviso: Cada jogador começa com 12 pontos para distribuir nos atributos, podendo
 - Efeito: O jogador pode, além de utilizar uma habilidade ou realizar uma ação, usar um item no turno. Além disso, há uma chance de 50% de o item não ser gasto.
 - Descrição: O Aprendiz aprende a utilizar itens com eficiência e rapidez, maximizando o uso de recursos em momentos críticos.
 3. Aprendizado Rápido
-- Efeito: Ao concluir missões secundárias de um cenário, o Aprendiz recebe +1 ponto de experiência de bônus.
+- Efeito: Ao completar missões secundárias, o jogador ganha uma porcentagem extra de experiência em relação ao valor de completude do cenário. A cada missão secundária completada, a XP do cenário é aumentada em 10%, caso tenha a habilidade Aprendizado Rápido, cada missão secundária acrescenta 15% no valor final da completude do cenário.
 - Descrição: O Aprendiz é curioso e busca aprender o máximo possível em suas jornadas, ganhando experiência extra ao concluir tarefas adicionais ou explorar mais profundamente o cenário.
 4. Instinto Aprimorado
 - Efeito: O jogador ganha +2 em testes de Furtividade, Percepção, Sentidos, Sobrevivência e Esquiva.
@@ -72,7 +64,7 @@ Aviso: Cada jogador começa com 12 pontos para distribuir nos atributos, podendo
 	Efeito: 1d4 em dano mágico.
 - Cajado da Dualidade
 	Descrição: Um cajado de madeira com uma gema curativa incrustada na ponta. É projetado tanto para canalizar energias de cura quanto para infligir dano mágico.
-	Efeito: O Cajado alterna entre cura e dano, ambos de 1d3. A cura é afetada pela Sinergia; o dano é tratado como mágico e afetado pelo Arcano.
+	Efeito: O Cajado alterna entre cura e dano, ambos de 1d2. A cura é afetada pela Sinergia; o dano é tratado como mágico e afetado pelo Arcano.
 - Daga de Comando
 	Descrição: Pequena faca de combate com design estratégico. Ideal para ataques rápidos, mas também para situações em que precisão é fundamental.
 	Efeito: 1d3 de dano corpo a corpo. +1 em Liderança.

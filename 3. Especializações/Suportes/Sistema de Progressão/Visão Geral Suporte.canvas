@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"1879f95c9194b20f","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Árvore do Suporte.md","x":-200,"y":-2840,"width":400,"height":400},
+		{"id":"98d42b4c191f13cf","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Ramo - RE.md","x":-200,"y":-2240,"width":400,"height":400},
+		{"id":"6723599fa274b815","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Demoníaco - Ápice Danoso.md","x":-1760,"y":-1840,"width":560,"height":400},
+		{"id":"7b6958376db2fcb3","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Humano - Equilíbrio.md","x":-280,"y":-1640,"width":560,"height":420},
+		{"id":"6ae89f86a3deb7b1","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Divino - Ápice Curativo.md","x":1000,"y":-1840,"width":560,"height":400},
+		{"id":"734ba2b80794cbdd","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Divino.md","x":600,"y":-1240,"width":400,"height":400},
+		{"id":"48515b752cf692e2","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Humano.md","x":-880,"y":-280,"width":400,"height":400},
+		{"id":"be5bf6c1f569446c","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Humano.md","x":600,"y":-280,"width":400,"height":400},
+		{"id":"01f9a2582e7d51a9","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Demoníaco.md","x":-1760,"y":-280,"width":400,"height":400},
+		{"id":"82f51eb6dfba40c9","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Divino.md","x":1680,"y":-280,"width":400,"height":400},
+		{"id":"5b1a1cade9febb20","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Alquimia Estranha/Experimentos Nefastos.md","x":600,"y":-2640,"width":400,"height":400},
+		{"id":"5b458ae8cbad237d","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Alquimia Estranha/Sensações Ortodoxas.md","x":-200,"y":-4160,"width":400,"height":400},
+		{"id":"079a0d52040d2a0c","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Alquimia Estranha/Ramo - AE.md","x":1000,"y":-3440,"width":400,"height":400},
+		{"id":"f0d02dc2d58faedf","x":-960,"y":-2640,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Relações Sinérgicas/Pressentimentos Anormais.md"},
+		{"id":"b8038ea02acc8850","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Demoníaco.md","x":-960,"y":-1240,"width":400,"height":400},
+		{"id":"318b2631adb3d195","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Relações Sinérgicas/Ramo - RS.md","x":-1360,"y":-3440,"width":400,"height":400},
+		{"id":"cf3499e26781894c","type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Alquimia Estranha/Venenos Imprevisíveis.md","x":1560,"y":-4560,"width":400,"height":400},
+		{"id":"bf9e9f6d30460cc7","x":-2160,"y":-4560,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Relações Sinérgicas/Alta Eficácia.md"},
+		{"id":"61c0a2e6b49e0930","x":-760,"y":-4160,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Sistema de Progressão/Relações Sinérgicas/Controles Invisíveis.md"}
+	],
+	"edges":[
+		{"id":"5f8fd4bf4c854a2a","fromNode":"98d42b4c191f13cf","fromSide":"left","toNode":"6723599fa274b815","toSide":"top"},
+		{"id":"91f0e3f3782ae875","fromNode":"98d42b4c191f13cf","fromSide":"bottom","toNode":"7b6958376db2fcb3","toSide":"top"},
+		{"id":"8031428eef238588","fromNode":"98d42b4c191f13cf","fromSide":"right","toNode":"6ae89f86a3deb7b1","toSide":"top"},
+		{"id":"49934cffc05a5218","fromNode":"7b6958376db2fcb3","fromSide":"bottom","toNode":"48515b752cf692e2","toSide":"top"},
+		{"id":"d8e63555a1598963","fromNode":"7b6958376db2fcb3","fromSide":"bottom","toNode":"be5bf6c1f569446c","toSide":"top"},
+		{"id":"87931f614957bd57","fromNode":"6723599fa274b815","fromSide":"bottom","toNode":"01f9a2582e7d51a9","toSide":"top"},
+		{"id":"83c094a40d52213f","fromNode":"6723599fa274b815","fromSide":"bottom","toNode":"b8038ea02acc8850","toSide":"top"},
+		{"id":"affa8d610e92c0ea","fromNode":"6ae89f86a3deb7b1","fromSide":"bottom","toNode":"734ba2b80794cbdd","toSide":"top"},
+		{"id":"02db3f9b49530550","fromNode":"6ae89f86a3deb7b1","fromSide":"bottom","toNode":"82f51eb6dfba40c9","toSide":"top"},
+		{"id":"744c088b361bef24","fromNode":"1879f95c9194b20f","fromSide":"bottom","toNode":"98d42b4c191f13cf","toSide":"top"},
+		{"id":"e977effde746c974","fromNode":"1879f95c9194b20f","fromSide":"left","toNode":"318b2631adb3d195","toSide":"right"},
+		{"id":"2973715cc7e6b1c9","fromNode":"1879f95c9194b20f","fromSide":"right","toNode":"079a0d52040d2a0c","toSide":"left"},
+		{"id":"01e6515416580bf2","fromNode":"079a0d52040d2a0c","fromSide":"bottom","toNode":"5b1a1cade9febb20","toSide":"top"},
+		{"id":"0fb7ca370b4248e8","fromNode":"079a0d52040d2a0c","fromSide":"right","toNode":"cf3499e26781894c","toSide":"left"},
+		{"id":"768013c0a3781197","fromNode":"079a0d52040d2a0c","fromSide":"top","toNode":"5b458ae8cbad237d","toSide":"bottom"},
+		{"id":"dbfd471b0ef6dcb7","fromNode":"318b2631adb3d195","fromSide":"bottom","toNode":"f0d02dc2d58faedf","toSide":"left"},
+		{"id":"c95e20a180eb3933","fromNode":"318b2631adb3d195","fromSide":"left","toNode":"bf9e9f6d30460cc7","toSide":"right"},
+		{"id":"695227b21345e167","fromNode":"318b2631adb3d195","fromSide":"top","toNode":"61c0a2e6b49e0930","toSide":"left"}
+	]
+}
