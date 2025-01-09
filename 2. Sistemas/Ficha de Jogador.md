@@ -4,12 +4,10 @@
 **Motivação**: 
 **Características Marcantes**: 
 **Especialização**:
-**Classe**:
 
 ### **Atributos**
-(A cada +1 nível alcançado, ganha 2 pontos de atributo)
-- **Constituição**:
 - **Existência**:
+- **Vitalidade**: P ()
 - **Combate**: P ()
 - **Precisão**: P ()
 - **Arcano**: P ()
@@ -18,12 +16,11 @@
 - **Resistência**: P ()
 
 ### **Habilidades**
-- **Passiva da Classe**: (Nome da Passiva da Classe)
+- **Passiva da Especialização: (Nome da Passiva da Classe)
 - **Passivas** (máximo de 2):
     - (Nome da habilidade passiva escolhida)
     - (Nome da habilidade passiva escolhida)
-- **Ativas** (máximo de 3):
-    - (Nome da habilidade ativa escolhida)
+- **Ativas** (máximo de 2):
     - (Nome da habilidade ativa escolhida)
     - (Nome da habilidade ativa escolhida)
 
