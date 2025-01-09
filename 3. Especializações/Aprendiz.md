@@ -1,33 +1,27 @@
-Relacionado com: [[Árvore do Estrategista]]
-Relacionado com: [[Árvore do Suporte]]
-Relacionado com: [[Árvore do Protetor]]
-Relacionado com: [[Árvore do Combatente]]
-Relacionado com: [[Árvore do Arcanista]]
-Relacionado com: [[Árvore do Artilheiro]]
 O Aprendiz é a classe inicial para todos os jogadores. Ainda não especializado, o Aprendiz possui acesso a habilidades genéricas e versáteis, permitindo que ele explore diferentes estilos de jogo antes de escolher sua especialização.
 ## 8 Atributos Básicos
-Vitalidade:
+1. Vitalidade:
 - Efeito: Afeta os Pontos de Vida (PV) máximos. Cada ponto adicional em Vitalidade aumenta 5 PV.
 - Descrição: Quanto maior a Vitalidade, mais difícil será derrubar o personagem, já que ele possui mais vida.
-Existência:
+2. Existência:
 - Efeito: Representa sua proximidade com o Divino ou Demoníaco. Afeta interações sociais e desbloqueio de cenários secretos.
 - Descrição: Existência é um atributo dado ao jogador com base na interpretação de sua existência pelo Mestre.
-Combate:
+3. Combate:
 - Efeito: Aumenta o dano de ataques físicos, capacidade de utilizar armas pesadas, sentidos e esquiva.
 - Descrição: Importante para classes focadas em combate corpo a corpo, aumentando o impacto de cada golpe.
-Precisão:
+4. Precisão:
 - Efeito: Aumenta o dano de ataques de longa distância, percepção, furtividade, eficiência de armadilhas e rastreamento.
 - Descrição: Essencial para quem usa arcos, bestas ou armas de fogo, e também para aqueles que preferem esquivar ao invés de bloquear.
-Arcano:
+5. Arcano:
 - Efeito: Aumenta a eficácia de habilidades mágicas, dano de magias ofensivas, conhecimento.
 - Descrição: Crucial para aqueles que se especializam em feitiçaria e magias ofensivas.
-Sinergia:
+6. Sinergia:
 - Efeito: Aumenta a eficácia de habilidades de suporte, percepção de risco e de controle.
 - Descrição: Ideal para classes que curam, protegem aliados, lidam com efeito de status positivos e negativos.
-Liderança:
+7. Liderança:
 - Efeito: Aumenta a capacidade de influenciar outros personagens, como em negociações ou interações sociais. Impacta a eficácia de habilidades de comando. Influencia capacidades mercantis, administrativas e influencia iniciativa.
 - Descrição: Fundamental para personagens que lideram, realizam manipulações sociais ou tentam convencer NPCs, afetando também o moral do grupo.
-Resistência:
+8. Resistência:
 - Efeito: Afeta a resistência a efeitos adversos e a capacidade de suportar dano.
 - Descrição: Crucial para permanecer vivo em batalhas duradouras.
 Aviso: Cada jogador começa com 20 pontos para distribuir nos atributos, podendo colocar no máximo 4 pontos em um específico no inicio. 

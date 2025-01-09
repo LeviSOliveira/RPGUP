@@ -16,7 +16,7 @@
 - **Resistência**: P ()
 
 ### **Habilidades**
-- **Passiva da Especialização: (Nome da Passiva da Classe)
+- **Passiva da Especialização: (Nome da Passiva)
 - **Passivas** (máximo de 2):
     - (Nome da habilidade passiva escolhida)
     - (Nome da habilidade passiva escolhida)
