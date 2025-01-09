@@ -1,7 +1,7 @@
 O Aprendiz é a classe inicial para todos os jogadores. Ainda não especializado, o Aprendiz possui acesso a habilidades genéricas e versáteis, permitindo que ele explore diferentes estilos de jogo antes de escolher sua especialização.
 ## 8 Atributos Básicos
 1. Vitalidade:
-- Efeito: Afeta os Pontos de Vida (PV) máximos. Cada ponto adicional em Vitalidade aumenta 5 PV.
+- Efeito: Afeta os Pontos de Vida (PV) máximos. Cada ponto adicional em Vitalidade aumenta 4 PV.
 - Descrição: Quanto maior a Vitalidade, mais difícil será derrubar o personagem, já que ele possui mais vida.
 2. Existência:
 - Efeito: Representa sua proximidade com o Divino ou Demoníaco. Afeta interações sociais e desbloqueio de cenários secretos.
