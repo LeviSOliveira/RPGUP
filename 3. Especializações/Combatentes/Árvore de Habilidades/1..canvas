@@ -11,8 +11,10 @@
 		{"id":"dbd92afed63e368d","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Equipamentos/Lança de Ferro Negro.md","x":880,"y":-1063,"width":400,"height":400},
 		{"id":"9bba352594f77d5b","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Equipamentos/Espada do Caçador.md","x":-800,"y":-1063,"width":400,"height":400},
 		{"id":"1fd339e19011f175","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Equipamentos/Adaga do Louco.md","x":-243,"y":-1063,"width":400,"height":400},
-		{"id":"1cbc89e59d8a3152","x":-443,"y":960,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Ataque Furtivo.md"},
-		{"id":"98a4d034baf82289","x":-43,"y":960,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Movimentação Necessária (Ativa).md"}
+		{"id":"1cbc89e59d8a3152","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Ataque Furtivo.md","x":-443,"y":960,"width":400,"height":400},
+		{"id":"98a4d034baf82289","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Movimentação Necessária (Ativa).md","x":-43,"y":960,"width":400,"height":400},
+		{"id":"bb1d7d781c1603d8","x":-1000,"y":960,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Fundido.md"},
+		{"id":"84326fd0a60b0a56","x":-1440,"y":520,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Echo.md"}
 	],
 	"edges":[
 		{"id":"bb1670b791e526b0","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"e8c8268794adc819","toSide":"top"},
@@ -26,6 +28,8 @@
 		{"id":"14ebac0bc4a2be21","fromNode":"e2ab97847bb74035","fromSide":"top","toNode":"dbd92afed63e368d","toSide":"bottom"},
 		{"id":"cc0f6e93b9b003cc","fromNode":"e2ab97847bb74035","fromSide":"top","toNode":"2c143024b0c3518c","toSide":"bottom"},
 		{"id":"b1a9c879c346212a","fromNode":"25a1c9152d3f6de3","fromSide":"bottom","toNode":"1cbc89e59d8a3152","toSide":"top"},
-		{"id":"ecfad551f14a67d2","fromNode":"25a1c9152d3f6de3","fromSide":"bottom","toNode":"98a4d034baf82289","toSide":"top"}
+		{"id":"ecfad551f14a67d2","fromNode":"25a1c9152d3f6de3","fromSide":"bottom","toNode":"98a4d034baf82289","toSide":"top"},
+		{"id":"f3dbbe5c4330040e","fromNode":"2ec3ec263825524a","fromSide":"bottom","toNode":"bb1d7d781c1603d8","toSide":"top"},
+		{"id":"2864d8962eed5d01","fromNode":"2ec3ec263825524a","fromSide":"left","toNode":"84326fd0a60b0a56","toSide":"right"}
 	]
 }
