@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1cee8397f153ef66","x":305,"y":322,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Foco em Manopla.md"},
+		{"id":"c26047267a99a6e7","x":880,"y":322,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Foco em Lança.md"},
+		{"id":"e8c8268794adc819","x":1440,"y":320,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Foco em Machado.md"},
+		{"id":"e2ab97847bb74035","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Combatente - Inicio.md","x":157,"y":-400,"width":696,"height":467},
+		{"id":"25a1c9152d3f6de3","x":-243,"y":320,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Foco em Adaga.md"},
+		{"id":"2ec3ec263825524a","x":-800,"y":322,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Foco em Espada.md"}
+	],
+	"edges":[
+		{"id":"bb1670b791e526b0","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"e8c8268794adc819","toSide":"top"},
+		{"id":"5132d1e5cc0161e8","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"c26047267a99a6e7","toSide":"top"},
+		{"id":"d9899791bebb97ab","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"1cee8397f153ef66","toSide":"top"},
+		{"id":"8fbab9469d0d65e3","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"25a1c9152d3f6de3","toSide":"top"},
+		{"id":"de27fdf4de8ada84","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"2ec3ec263825524a","toSide":"top"}
+	]
+}

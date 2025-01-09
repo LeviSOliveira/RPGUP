@@ -1,0 +1,4 @@
+O Combatente é a linha de frente de qualquer batalha, especializado em combate corpo a corpo. Seu papel é proteger seus aliados, lidar com grandes quantidades de dano e adaptar-se rapidamente às mudanças no campo de batalha. Os Combatentes são versáteis e podem atuar tanto como DPS (Damage Per Second), como Semi Tanques e até como Assassinos, dependendo da situação e das necessidades do grupo. Com habilidades variadas, eles podem explorar o terreno, defender seus aliados e causar dano significativo aos inimigos.
+-> Ambidestro (Passiva da Especialização)
+- Descrição: O Combatente possui a habilidade de atacar com ambas as mãos com igual destreza.
+- Efeito: Caso realize ataques desarmados ou carregue em cada mão uma arma leve, pode realizar dois ataques no mesmo turno.
