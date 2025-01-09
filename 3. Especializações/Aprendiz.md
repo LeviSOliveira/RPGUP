@@ -28,22 +28,22 @@ Aviso: Cada jogador começa com 20 pontos para distribuir nos atributos, podendo
 
 ## Habilidades do Aprendiz
 1. Mente Fria
-- Efeito: Concede um bônus fixo de +2 em testes de resistência contra efeitos de controle mental, como confusão e medo.
+- Efeito: Concede um bônus de +2 em testes de resistência contra efeitos de controle mental, como confusão e medo.
 - Descrição: O Aprendiz desenvolve um autocontrole mental, permitindo resistir com maior facilidade a manipulações psíquicas e outras influências mentais.
 2. Uso Garantido
-- Efeito: O jogador pode, além de utilizar uma habilidade ou realizar uma ação, usar um item no turno. Além disso, há uma chance de 50% de o item não ser gasto.
+- Efeito: O jogador pode, além de utilizar uma habilidade ou realizar uma ação, usar um item no turno. Além disso, há uma chance de 25% de o item não ser gasto (Role 1d4).
 - Descrição: O Aprendiz aprende a utilizar itens com eficiência e rapidez, maximizando o uso de recursos em momentos críticos.
 3. Aprendizado Rápido
 - Efeito: Ao completar missões secundárias, o jogador ganha uma porcentagem extra de experiência em relação ao valor de completude do cenário. A cada missão secundária completada, a XP do cenário é aumentada em 10%, caso tenha a habilidade Aprendizado Rápido, cada missão secundária acrescenta 15% no valor final da completude do cenário.
 - Descrição: O Aprendiz é curioso e busca aprender o máximo possível em suas jornadas, ganhando experiência extra ao concluir tarefas adicionais ou explorar mais profundamente o cenário.
 4. Instinto Aprimorado
-- Efeito: O jogador ganha +2 em testes de Furtividade, Percepção, Sentidos, Sobrevivência e Esquiva.
+- Efeito: O jogador ganha +2 em testes de Combate e Precisão.
 - Descrição: O Aprendiz desenvolve uma percepção aguçada e reflexos apurados, permitindo detectar perigos e reagir rapidamente.
 5. Forte Determinação
-- Efeito: Quando a vida do Aprendiz estiver abaixo de 25%, ele sofre -1 de dano por ataque recebido.
+- Efeito: Quando a vida do Aprendiz estiver abaixo de 35%, ele sofre -1 de dano por ataque recebido.
 - Descrição: Mesmo em meio à dor e ao sofrimento, o Aprendiz mantém seu foco e resiliência, tornando-se menos vulnerável a danos em momentos críticos.
 6. Regeneração Básica
-- Efeito: Restaura 2 pontos de vida a cada 4 turnos de combate.
+- Efeito: Restaura 1 pontos de vida a cada 2 turnos de combate.
 - Descrição: O Aprendiz possui uma capacidade de regeneração básica, permitindo-lhe recuperar pontos de vida de maneira gradual, sem a necessidade de curas externas.
 
 ## Equipamento Inicial
