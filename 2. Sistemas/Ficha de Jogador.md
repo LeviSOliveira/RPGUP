@@ -17,9 +17,6 @@
 
 ### **Habilidades**
 - **Passiva da Especialização: (Nome da Passiva)
-- **Passivas** (máximo de 2):
-    - (Nome da habilidade passiva escolhida)
-    - (Nome da habilidade passiva escolhida)
 - **Ativas** (máximo de 2):
     - (Nome da habilidade ativa escolhida)
     - (Nome da habilidade ativa escolhida)
