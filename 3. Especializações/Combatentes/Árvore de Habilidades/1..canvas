@@ -13,8 +13,14 @@
 		{"id":"1fd339e19011f175","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Equipamentos/Adaga do Louco.md","x":-243,"y":-1063,"width":400,"height":400},
 		{"id":"1cbc89e59d8a3152","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Ataque Furtivo.md","x":-443,"y":960,"width":400,"height":400},
 		{"id":"98a4d034baf82289","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Movimentação Necessária (Ativa).md","x":-43,"y":960,"width":400,"height":400},
-		{"id":"bb1d7d781c1603d8","x":-1000,"y":960,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Fundido.md"},
-		{"id":"84326fd0a60b0a56","x":-1440,"y":520,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Echo.md"}
+		{"id":"bb1d7d781c1603d8","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Fundido.md","x":-1000,"y":960,"width":400,"height":400},
+		{"id":"84326fd0a60b0a56","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Echo.md","x":-1440,"y":520,"width":400,"height":400},
+		{"id":"2f5a4c988bc51778","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Covardia.md","x":305,"y":1520,"width":400,"height":400},
+		{"id":"6b5fcdb1c339a057","type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Defletir (Ativa).md","x":653,"y":960,"width":400,"height":400},
+		{"id":"d2ed25565cc00113","x":2000,"y":-133,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Comprometido (Ativa).md"},
+		{"id":"bbd4f871f9f4b38f","x":2080,"y":560,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Desejo por Guerra.md"},
+		{"id":"3fd0fba108a0a6d9","x":1280,"y":960,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Vento Leve (Ativa).md"},
+		{"id":"a48d1cd84ab4f7ee","x":1040,"y":1520,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Combatentes/Árvore de Habilidades/Habilidades/Forte Espírito.md"}
 	],
 	"edges":[
 		{"id":"bb1670b791e526b0","fromNode":"e2ab97847bb74035","fromSide":"bottom","toNode":"e8c8268794adc819","toSide":"top"},
@@ -30,6 +36,12 @@
 		{"id":"b1a9c879c346212a","fromNode":"25a1c9152d3f6de3","fromSide":"bottom","toNode":"1cbc89e59d8a3152","toSide":"top"},
 		{"id":"ecfad551f14a67d2","fromNode":"25a1c9152d3f6de3","fromSide":"bottom","toNode":"98a4d034baf82289","toSide":"top"},
 		{"id":"f3dbbe5c4330040e","fromNode":"2ec3ec263825524a","fromSide":"bottom","toNode":"bb1d7d781c1603d8","toSide":"top"},
-		{"id":"2864d8962eed5d01","fromNode":"2ec3ec263825524a","fromSide":"left","toNode":"84326fd0a60b0a56","toSide":"right"}
+		{"id":"2864d8962eed5d01","fromNode":"2ec3ec263825524a","fromSide":"left","toNode":"84326fd0a60b0a56","toSide":"right"},
+		{"id":"6115e371ec49aa18","fromNode":"1cee8397f153ef66","fromSide":"bottom","toNode":"2f5a4c988bc51778","toSide":"top"},
+		{"id":"08e0a715e0726b9c","fromNode":"1cee8397f153ef66","fromSide":"bottom","toNode":"6b5fcdb1c339a057","toSide":"top"},
+		{"id":"ed40ae6827dfba7a","fromNode":"c26047267a99a6e7","fromSide":"bottom","toNode":"a48d1cd84ab4f7ee","toSide":"top"},
+		{"id":"2dfb61612a9b0bef","fromNode":"c26047267a99a6e7","fromSide":"bottom","toNode":"3fd0fba108a0a6d9","toSide":"top"},
+		{"id":"d687c54e0c2a642a","fromNode":"e8c8268794adc819","fromSide":"bottom","toNode":"bbd4f871f9f4b38f","toSide":"left"},
+		{"id":"96709fb8d6ded756","fromNode":"e8c8268794adc819","fromSide":"right","toNode":"d2ed25565cc00113","toSide":"left"}
 	]
 }
