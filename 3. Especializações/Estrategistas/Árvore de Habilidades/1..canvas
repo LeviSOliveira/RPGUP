@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"d473cccbf0943431","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Estrategista - Inicio.md","x":-240,"y":-160,"width":600,"height":440},
+		{"id":"be97c93d49893d16","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Voz Presente.md","x":-140,"y":640,"width":400,"height":400},
+		{"id":"447fd48e3ca1f050","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Fluxo de Batalha.md","x":-720,"y":640,"width":400,"height":400},
+		{"id":"6d9217ff1c16cb24","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Olho Marcial (Ativa).md","x":440,"y":640,"width":400,"height":400},
+		{"id":"c3a25f5c00dfe2d0","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Ataque Desnecessário.md","x":-1200,"y":1200,"width":400,"height":400},
+		{"id":"c47d1657339021c3","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Sorte Tática.md","x":-1600,"y":640,"width":400,"height":400},
+		{"id":"3e32b24a836000df","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Mestre em Iniciativa.md","x":-1200,"y":-140,"width":400,"height":400},
+		{"id":"d6fc52270806d25e","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Discernimento Cultural (Ativa).md","x":1120,"y":640,"width":400,"height":400},
+		{"id":"9f2a192fac8b9031","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Contratos (Ativa).md","x":920,"y":-560,"width":400,"height":520},
+		{"id":"cde4f443d9d9e654","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Análise Perfeita (Ativa).md","x":840,"y":1280,"width":400,"height":640},
+		{"id":"fca1f8f10b319187","type":"file","file":"RPGUS/3. Especializações/Estrategistas/Árvore de Habilidades/Habilidades/Código Mental.md","x":1040,"y":80,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"488fc3c79bee7f7e","fromNode":"d473cccbf0943431","fromSide":"left","toNode":"3e32b24a836000df","toSide":"right"},
+		{"id":"50bd99a757339c54","fromNode":"d473cccbf0943431","fromSide":"bottom","toNode":"447fd48e3ca1f050","toSide":"top"},
+		{"id":"e11dbdec214edf22","fromNode":"d473cccbf0943431","fromSide":"bottom","toNode":"be97c93d49893d16","toSide":"top"},
+		{"id":"567d9f64591fc1f2","fromNode":"d473cccbf0943431","fromSide":"bottom","toNode":"6d9217ff1c16cb24","toSide":"top"},
+		{"id":"5ac4442f6056a0dd","fromNode":"d473cccbf0943431","fromSide":"right","toNode":"fca1f8f10b319187","toSide":"left"},
+		{"id":"f12856a8b0d564a5","fromNode":"be97c93d49893d16","fromSide":"bottom","toNode":"cde4f443d9d9e654","toSide":"top"},
+		{"id":"444564d9bb82fc43","fromNode":"6d9217ff1c16cb24","fromSide":"bottom","toNode":"cde4f443d9d9e654","toSide":"top"},
+		{"id":"a8f9380b3bc8166b","fromNode":"447fd48e3ca1f050","fromSide":"bottom","toNode":"c3a25f5c00dfe2d0","toSide":"top"},
+		{"id":"ae308a3df1480046","fromNode":"3e32b24a836000df","fromSide":"bottom","toNode":"c47d1657339021c3","toSide":"right"},
+		{"id":"b8e1dc19bd82ce40","fromNode":"c3a25f5c00dfe2d0","fromSide":"top","toNode":"c47d1657339021c3","toSide":"right"},
+		{"id":"0b47d305fd2f3db8","fromNode":"fca1f8f10b319187","fromSide":"bottom","toNode":"d6fc52270806d25e","toSide":"top"},
+		{"id":"e3935b26a5942bb0","fromNode":"d473cccbf0943431","fromSide":"right","toNode":"9f2a192fac8b9031","toSide":"bottom"},
+		{"id":"a9c07697684f77c8","fromNode":"cde4f443d9d9e654","fromSide":"top","toNode":"9f2a192fac8b9031","toSide":"left"}
+	]
+}

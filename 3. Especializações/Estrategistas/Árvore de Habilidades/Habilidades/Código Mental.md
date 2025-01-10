@@ -1,0 +1,3 @@
+Custo: 1 ponto de Evolução
+Descrição: Sua grande capacidade nos estudos o fez desenvolver uma linguagem que a partir dela, facilita a leitura de textos.
+Efeito: Testes para leitura de textos são realizados com o modificador de Liderança em vez de Arcano. Você recebe +2 de bônus em testes de leitura. Além disso, testes de leitura usando Liderança não têm risco de Sobrecarga, diferentemente dos testes de Arcano.
