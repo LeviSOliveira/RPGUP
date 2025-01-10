@@ -1,4 +1,4 @@
 Custo: 1 ponto de Evolução
 Descrição: O Estrategista iniciante compreende a importância dos diversos tipos de contratos que regem a sociedade. Utilizando seu conhecimento, ele é capaz de negociar com NPCs, gerenciar comércio, organizar tarefas e estabelecer cláusulas e requisições. Este entendimento permite ao Estrategista alavancar recursos e alianças essenciais para o sucesso do grupo.
 Efeito: Você pode negociar com NPCs que encontrar ao longo dos cenários para cumprir funções dentro do Nexus, como Ferraria, Administração do Estoque, Criação de Itens, e outras funções vitais.
-Efeito Adicional: Caso o jogador obtenha a habilidade "Análise Perfeita", ele pode adquirir a habilidade "Contratos" sem custo de pontos de evolução.
+Detalhe Adicional: Caso o jogador obtenha a habilidade "Análise Perfeita", ele pode adquirir a habilidade "Contratos" sem custo de pontos de evolução.
