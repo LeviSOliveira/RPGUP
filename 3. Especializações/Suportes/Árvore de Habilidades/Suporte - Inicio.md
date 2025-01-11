@@ -1,0 +1,4 @@
+Os Suportes são mestres na arte de equilibrar a balança entre o dano e a cura. Com habilidades que promovem a harmonia no campo de batalha, eles asseguram que seus aliados permaneçam fortes e resilientes enquanto enfraquecem seus inimigos. Utilizando uma combinação de magia e uma presença constante, os Suportes são essenciais para o sucesso de qualquer grupo, garantindo que todos possam cumprir suas funções com sucesso absoluto.
+-> Inspiração Criativa (Passiva da Especialização)
+- Descrição: A harmonia é alcançada através do equilíbrio entre o dano e a cura, demonstrando que o Suporte consegue cumprir sua função com perfeição.
+- Funcionamento: O Suporte ganha 1 ponto de Inspiração sempre que atinge um inimigo, acumulando até 5 pontos de Inspiração. Os pontos de Inspiração são usados para utilizar habilidades.
