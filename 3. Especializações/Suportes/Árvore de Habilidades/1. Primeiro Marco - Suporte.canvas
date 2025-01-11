@@ -1,6 +1,17 @@
 {
 	"nodes":[
-		{"id":"156b9f2f8f255fcf","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Suporte - Inicio.md","x":-220,"y":-200,"width":680,"height":540}
+		{"id":"156b9f2f8f255fcf","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Suporte - Inicio.md","x":-220,"y":-200,"width":480,"height":500},
+		{"id":"b13984c14561a582","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Vitalidade Exuberante (Ativa).md","x":400,"y":-115,"width":340,"height":330},
+		{"id":"ee4b7724b3da7a2a","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Quebra Ressoante.md","x":960,"y":140,"width":400,"height":320},
+		{"id":"ef8e3084d191fec7","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Quebra Dispersiva.md","x":960,"y":-395,"width":400,"height":390},
+		{"id":"7913a31a31d58a2f","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Radiante.md","x":400,"y":320,"width":390,"height":320},
+		{"id":"0ca14d7f835a7f50","x":-180,"y":460,"width":400,"height":260,"type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Pressentimentos Anormais.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"149f3f6873a662a3","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"b13984c14561a582","toSide":"left","color":"3"},
+		{"id":"808298beea8bbccd","fromNode":"b13984c14561a582","fromSide":"right","toNode":"ef8e3084d191fec7","toSide":"left","color":"#f084dc"},
+		{"id":"f98623c95648d9a3","fromNode":"b13984c14561a582","fromSide":"right","toNode":"ee4b7724b3da7a2a","toSide":"left","color":"#f084dc"},
+		{"id":"96c35af63353e82d","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"7913a31a31d58a2f","toSide":"left","color":"3"},
+		{"id":"8d08b7a1cdf807e1","fromNode":"156b9f2f8f255fcf","fromSide":"bottom","toNode":"0ca14d7f835a7f50","toSide":"top","color":"3"}
+	]
 }

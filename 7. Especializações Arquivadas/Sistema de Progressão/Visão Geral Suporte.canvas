@@ -10,15 +10,15 @@
 		{"id":"be5bf6c1f569446c","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Humano.md","x":600,"y":-280,"width":400,"height":400},
 		{"id":"01f9a2582e7d51a9","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Demoníaco.md","x":-1760,"y":-280,"width":400,"height":400},
 		{"id":"82f51eb6dfba40c9","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Religião Existencial/Equipamento Marco/Equipamentos - Divino.md","x":1680,"y":-280,"width":400,"height":400},
-		{"id":"5b1a1cade9febb20","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Experimentos Nefastos.md","x":600,"y":-2640,"width":400,"height":400},
-		{"id":"5b458ae8cbad237d","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Sensações Ortodoxas.md","x":-200,"y":-4160,"width":400,"height":400},
+		{"id":"5b1a1cade9febb20","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Experimentos Nefastos.md","x":600,"y":-2640,"width":440,"height":460},
+		{"id":"5b458ae8cbad237d","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Sensações Ortodoxas.md","x":-200,"y":-4160,"width":400,"height":420},
 		{"id":"079a0d52040d2a0c","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Ramo - AE.md","x":1000,"y":-3440,"width":400,"height":400},
-		{"id":"f0d02dc2d58faedf","x":-960,"y":-2640,"width":400,"height":400,"type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Pressentimentos Anormais.md"},
+		{"id":"f0d02dc2d58faedf","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Pressentimentos Anormais.md","x":-960,"y":-2640,"width":420,"height":460},
 		{"id":"b8038ea02acc8850","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Religião Existencial/Habilidades Marco/Habilidades - Demoníaco.md","x":-960,"y":-1240,"width":400,"height":400},
 		{"id":"318b2631adb3d195","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Ramo - RS.md","x":-1360,"y":-3440,"width":400,"height":400},
 		{"id":"cf3499e26781894c","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Alquimia Estranha/Venenos Imprevisíveis.md","x":1560,"y":-4560,"width":400,"height":400},
-		{"id":"bf9e9f6d30460cc7","x":-2160,"y":-4560,"width":400,"height":400,"type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Alta Eficácia.md"},
-		{"id":"61c0a2e6b49e0930","x":-760,"y":-4160,"width":400,"height":400,"type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Controles Invisíveis.md"}
+		{"id":"bf9e9f6d30460cc7","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Alta Eficácia.md","x":-2160,"y":-4560,"width":400,"height":400},
+		{"id":"61c0a2e6b49e0930","type":"file","file":"RPGUS/7. Especializações Arquivadas/Sistema de Progressão/Relações Sinérgicas/Controles Invisíveis.md","x":-760,"y":-4160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"5f8fd4bf4c854a2a","fromNode":"98d42b4c191f13cf","fromSide":"left","toNode":"6723599fa274b815","toSide":"top"},
