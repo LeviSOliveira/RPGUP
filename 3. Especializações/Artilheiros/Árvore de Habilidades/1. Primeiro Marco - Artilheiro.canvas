@@ -6,8 +6,14 @@
 		{"id":"81a99b71d61fcd69","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Inimigo Predileto.md","x":-280,"y":980,"width":400,"height":360},
 		{"id":"77efaf1766a11507","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Necessidade Furtiva.md","x":-920,"y":400,"width":400,"height":300},
 		{"id":"3aba120a8ef26dc1","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Reconhecimento de Maquinaria.md","x":240,"y":980,"width":400,"height":280},
-		{"id":"3a0fe20e884fbea1","x":720,"y":980,"width":400,"height":260,"type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Esquiva Sortuda.md"},
-		{"id":"b723ab15f5a42045","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Arquearia Singular.md","x":760,"y":550,"width":360,"height":280}
+		{"id":"3a0fe20e884fbea1","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Esquiva Sortuda.md","x":720,"y":980,"width":400,"height":260},
+		{"id":"c8b4a32bda54062e","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Sensações Aprimoradas.md","x":-1200,"y":1300,"width":400,"height":320},
+		{"id":"8fc3b15a76a4bbdf","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Tentativa de Desarme.md","x":635,"y":1500,"width":405,"height":260},
+		{"id":"132e345c37c73dd1","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Desarme Garantido (Ativa).md","x":-80,"y":1500,"width":400,"height":260},
+		{"id":"b37bdb4ed4a11c5d","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Alvo Marcado (Ativa).md","x":1040,"y":330,"width":440,"height":320},
+		{"id":"b723ab15f5a42045","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Arquearia Singular.md","x":680,"y":-140,"width":360,"height":280},
+		{"id":"3692f0b7f7596845","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Disparo Potencializado (Ativa).md","x":-690,"y":-190,"width":420,"height":330},
+		{"id":"dcba03ac1de94db9","x":1260,"y":-880,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Arquearia Potencializada (Ativa).md"}
 	],
 	"edges":[
 		{"id":"ac3260fc0573f146","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"81a99b71d61fcd69","toSide":"top","color":"3"},
@@ -16,7 +22,15 @@
 		{"id":"6906fb52f11dbc4d","fromNode":"77efaf1766a11507","fromSide":"bottom","toNode":"778f6e733e5ee796","toSide":"top","color":"5"},
 		{"id":"80d349ce640aa692","fromNode":"81a99b71d61fcd69","fromSide":"left","toNode":"778f6e733e5ee796","toSide":"right","color":"5"},
 		{"id":"21989e304c4bd14f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"3aba120a8ef26dc1","toSide":"left","color":"3"},
-		{"id":"48ef854794c44d1f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"b723ab15f5a42045","toSide":"left","color":"3"},
-		{"id":"f546ae3bd1ee677f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"3a0fe20e884fbea1","toSide":"top","color":"3"}
+		{"id":"f546ae3bd1ee677f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"3a0fe20e884fbea1","toSide":"top","color":"3"},
+		{"id":"b1c1a5024cb103bf","fromNode":"77efaf1766a11507","fromSide":"left","toNode":"c8b4a32bda54062e","toSide":"top","color":"#f084dc"},
+		{"id":"f8ac3656ac0367c2","fromNode":"3a0fe20e884fbea1","fromSide":"bottom","toNode":"c8b4a32bda54062e","toSide":"right","color":"#f084dc"},
+		{"id":"e5ec6022fa900cd0","fromNode":"240f849b959a3d23","fromSide":"top","toNode":"3692f0b7f7596845","toSide":"bottom","color":"4"},
+		{"id":"cc0b74d83b55238d","fromNode":"3aba120a8ef26dc1","fromSide":"bottom","toNode":"132e345c37c73dd1","toSide":"right","color":"4"},
+		{"id":"e7ea761127910e42","fromNode":"3aba120a8ef26dc1","fromSide":"bottom","toNode":"8fc3b15a76a4bbdf","toSide":"left","color":"4"},
+		{"id":"66bfe347b63d692f","fromNode":"b945a44ec26cedec","fromSide":"right","toNode":"b723ab15f5a42045","toSide":"left","color":"3"},
+		{"id":"10c5e7dd167544af","fromNode":"b723ab15f5a42045","fromSide":"bottom","toNode":"b37bdb4ed4a11c5d","toSide":"left","color":"4"},
+		{"id":"135a9f58795b36f3","fromNode":"b723ab15f5a42045","fromSide":"top","toNode":"dcba03ac1de94db9","toSide":"bottom","color":"5"},
+		{"id":"8b5f169fc1b21dbd","fromNode":"3692f0b7f7596845","fromSide":"right","toNode":"dcba03ac1de94db9","toSide":"bottom","color":"5"}
 	]
 }
