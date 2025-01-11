@@ -1,0 +1,3 @@
+Custo: 1 ponto de Equipamento
+Descrição: Os artilheiros que optam por essa arma são testados continuamente por ela; se seu desejo por sangue o dominar, você se torna incapaz de utilizá-la por 2 turnos.
+Efeito: Causa 2d2 de dano a longa distância. Possui o efeito "Criatura da Noite", recuperando 1PV a cada ataque bem-sucedido. Quando recuperar PV, há uma chance de 10% de ativar a condição especial "Sobrecarga de Sangue", fazendo com que o jogador não consiga atacar com a besta por 2 turnos.
