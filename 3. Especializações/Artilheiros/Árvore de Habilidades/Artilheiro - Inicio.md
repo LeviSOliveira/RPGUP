@@ -1,0 +1,5 @@
+O Artilheiro é um mestre das armas de longo alcance, capaz de eliminar seus inimigos com precisão letal. Especializando-se no uso de arcos, bestas, rifles e outras armas de longo alcance, o Artilheiro exerce um controle total sobre o campo de batalha, atacando à distância enquanto mantém uma posição segura. Seu treinamento e foco excepcionais permitem que eles selecionem seus alvos com precisão cirúrgica, garantindo que cada tiro conte. Os Artilheiros são essenciais em qualquer equipe, fornecendo suporte de fogo à distância e eliminando ameaças antes que elas se aproximem.
+-> Foco do Artilheiro (Passiva da Especialização)
+- Descrição: O Artilheiro demonstra um foco excepcional, mostrando claramente ao inimigo selecionado que seu desejo é sua morte.
+- Funcionamento Principal: Ao iniciar um combate, escolha um inimigo; ataques contra o inimigo selecionado causam +1 de dano.
+- Funcionamento Secundário: Fora de combates, determine um alvo; a partir desse momento, o artilheiro recebe vantagem e bônus de +2 em testes de Precisão contra tal alvo.

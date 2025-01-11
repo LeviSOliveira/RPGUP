@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b945a44ec26cedec","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Artilheiro - Inicio.md","x":0,"y":0,"width":480,"height":620},
+		{"id":"240f849b959a3d23","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Queima Roupa.md","x":-480,"y":620,"width":400,"height":240},
+		{"id":"778f6e733e5ee796","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Crítico Predileto.md","x":-860,"y":980,"width":440,"height":280},
+		{"id":"81a99b71d61fcd69","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Inimigo Predileto.md","x":-280,"y":980,"width":400,"height":360},
+		{"id":"77efaf1766a11507","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Necessidade Furtiva.md","x":-920,"y":400,"width":400,"height":300},
+		{"id":"3aba120a8ef26dc1","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Reconhecimento de Maquinaria.md","x":240,"y":980,"width":400,"height":280},
+		{"id":"3a0fe20e884fbea1","x":720,"y":980,"width":400,"height":260,"type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Esquiva Sortuda.md"},
+		{"id":"b723ab15f5a42045","type":"file","file":"RPGUS/3. Especializações/Artilheiros/Árvore de Habilidades/Habilidades/Arquearia Singular.md","x":760,"y":550,"width":360,"height":280}
+	],
+	"edges":[
+		{"id":"ac3260fc0573f146","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"81a99b71d61fcd69","toSide":"top","color":"3"},
+		{"id":"78fbf32bc76c1849","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"240f849b959a3d23","toSide":"top","color":"3"},
+		{"id":"bb1d2210551cd37e","fromNode":"b945a44ec26cedec","fromSide":"left","toNode":"77efaf1766a11507","toSide":"right","color":"3"},
+		{"id":"6906fb52f11dbc4d","fromNode":"77efaf1766a11507","fromSide":"bottom","toNode":"778f6e733e5ee796","toSide":"top","color":"5"},
+		{"id":"80d349ce640aa692","fromNode":"81a99b71d61fcd69","fromSide":"left","toNode":"778f6e733e5ee796","toSide":"right","color":"5"},
+		{"id":"21989e304c4bd14f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"3aba120a8ef26dc1","toSide":"left","color":"3"},
+		{"id":"48ef854794c44d1f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"b723ab15f5a42045","toSide":"left","color":"3"},
+		{"id":"f546ae3bd1ee677f","fromNode":"b945a44ec26cedec","fromSide":"bottom","toNode":"3a0fe20e884fbea1","toSide":"top","color":"3"}
+	]
+}
