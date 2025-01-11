@@ -10,10 +10,10 @@
 		{"id":"b8bce6e4771bfe95","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Demoníaco Chamativo.md","x":-1055,"y":-220,"width":395,"height":210},
 		{"id":"0ca14d7f835a7f50","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Pressentimentos Anormais.md","x":-220,"y":449,"width":400,"height":260},
 		{"id":"37fc6ea884191ef6","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Sifão.md","x":480,"y":300,"width":433,"height":299},
-		{"id":"bc5d480d8470dd77","x":-1276,"y":380,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Ressureição (Ativa).md"},
 		{"id":"4188c5315169bfea","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Mental (Ativa).md","x":-660,"y":419,"width":390,"height":323},
 		{"id":"7913a31a31d58a2f","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Radiante.md","x":95,"y":780,"width":385,"height":300},
-		{"id":"e77ba11c32f34c54","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Perfeita (Ativa).md","x":-795,"y":880,"width":330,"height":400}
+		{"id":"e77ba11c32f34c54","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Perfeita (Ativa).md","x":-795,"y":880,"width":330,"height":400},
+		{"id":"bc5d480d8470dd77","x":-1276,"y":380,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Ressureição (Ativa).md"}
 	],
 	"edges":[
 		{"id":"149f3f6873a662a3","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"b13984c14561a582","toSide":"left","color":"3"},
@@ -29,8 +29,8 @@
 		{"id":"01605a080954651e","fromNode":"4188c5315169bfea","fromSide":"bottom","toNode":"e77ba11c32f34c54","toSide":"top","color":"5"},
 		{"id":"cb4998af7e6f79d8","fromNode":"37fc6ea884191ef6","fromSide":"right","toNode":"f268ee0a6eaf958d","toSide":"left","color":"4"},
 		{"id":"41a5645b532563dc","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"7913a31a31d58a2f","toSide":"top","color":"3"},
-		{"id":"270e372e5161aff0","fromNode":"af09b441aece7abc","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"left","color":"5"},
-		{"id":"7bb199bd1a56fe06","fromNode":"e77ba11c32f34c54","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"bottom","color":"5"},
+		{"id":"270e372e5161aff0","fromNode":"af09b441aece7abc","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"left","color":"#f084dc"},
+		{"id":"7bb199bd1a56fe06","fromNode":"e77ba11c32f34c54","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"bottom","color":"#f084dc"},
 		{"id":"8432658e6f4a50ab","fromNode":"bc5d480d8470dd77","fromSide":"right","toNode":"e74108b05d4bdc77","toSide":"bottom","color":"#f084dc"}
 	]
 }
