@@ -1,19 +1,23 @@
 {
 	"nodes":[
 		{"id":"156b9f2f8f255fcf","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Suporte - Inicio.md","x":-220,"y":-200,"width":480,"height":500},
-		{"id":"b13984c14561a582","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Vitalidade Exuberante (Ativa).md","x":400,"y":-115,"width":340,"height":330},
 		{"id":"ee4b7724b3da7a2a","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Quebra Ressoante.md","x":960,"y":140,"width":400,"height":320},
 		{"id":"ef8e3084d191fec7","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Quebra Dispersiva.md","x":960,"y":-395,"width":400,"height":390},
 		{"id":"e74108b05d4bdc77","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Humano.md","x":-840,"y":50,"width":360,"height":210},
-		{"id":"f268ee0a6eaf958d","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Fogo Demoníaco (Ativa).md","x":1040,"y":600,"width":400,"height":280},
-		{"id":"af09b441aece7abc","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Estranho Divino.md","x":-1276,"y":-486,"width":473,"height":182},
-		{"id":"b8bce6e4771bfe95","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Demoníaco Chamativo.md","x":-1055,"y":-220,"width":395,"height":210},
-		{"id":"0ca14d7f835a7f50","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Pressentimentos Anormais.md","x":-220,"y":449,"width":400,"height":260},
-		{"id":"37fc6ea884191ef6","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Sifão.md","x":480,"y":300,"width":433,"height":299},
 		{"id":"4188c5315169bfea","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Mental (Ativa).md","x":-660,"y":419,"width":390,"height":323},
-		{"id":"7913a31a31d58a2f","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Radiante.md","x":95,"y":780,"width":385,"height":300},
-		{"id":"e77ba11c32f34c54","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Perfeita (Ativa).md","x":-795,"y":880,"width":330,"height":400},
-		{"id":"bc5d480d8470dd77","x":-1276,"y":380,"width":400,"height":400,"type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Ressureição (Ativa).md"}
+		{"id":"bc5d480d8470dd77","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Ressureição (Ativa).md","x":-1276,"y":380,"width":400,"height":400},
+		{"id":"37fc6ea884191ef6","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Sifão.md","x":360,"y":1280,"width":433,"height":299},
+		{"id":"e77ba11c32f34c54","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Perfeita (Ativa).md","x":-710,"y":880,"width":330,"height":400},
+		{"id":"0ca14d7f835a7f50","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Pressentimentos Anormais.md","x":-40,"y":581,"width":400,"height":260},
+		{"id":"f268ee0a6eaf958d","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Fogo Demoníaco (Ativa).md","x":-1203,"y":1280,"width":400,"height":280},
+		{"id":"62337fd0be973e2e","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Exílio (Ativa).md","x":-2000,"y":155,"width":400,"height":465},
+		{"id":"7913a31a31d58a2f","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Cura Radiante.md","x":740,"y":841,"width":385,"height":300},
+		{"id":"b13984c14561a582","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Vitalidade Exuberante (Ativa).md","x":360,"y":-280,"width":340,"height":330},
+		{"id":"bfb0576577f4a6cf","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Caos Direcionado.md","x":-75,"y":1140,"width":375,"height":260},
+		{"id":"b8bce6e4771bfe95","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Demoníaco Chamativo.md","x":-1198,"y":-160,"width":395,"height":210},
+		{"id":"af09b441aece7abc","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Habilidades/Estranho Divino.md","x":-1312,"y":-382,"width":473,"height":182},
+		{"id":"ab9fb40d1182eee0","type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Equipamento/Auréola da Dualidade (Arma Sincronizada - Rara).md","x":-803,"y":-860,"width":780,"height":529},
+		{"id":"b628f5eea0022f0c","x":213,"y":-967,"width":547,"height":527,"type":"file","file":"RPGUS/3. Especializações/Suportes/Árvore de Habilidades/Equipamento/Falso Gênesis (Arma Sincronizada - Rara).md"}
 	],
 	"edges":[
 		{"id":"149f3f6873a662a3","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"b13984c14561a582","toSide":"left","color":"3"},
@@ -21,16 +25,22 @@
 		{"id":"f98623c95648d9a3","fromNode":"b13984c14561a582","fromSide":"right","toNode":"ee4b7724b3da7a2a","toSide":"left","color":"#f084dc"},
 		{"id":"8d08b7a1cdf807e1","fromNode":"156b9f2f8f255fcf","fromSide":"bottom","toNode":"0ca14d7f835a7f50","toSide":"top","color":"3"},
 		{"id":"49bc05015c6cddf5","fromNode":"156b9f2f8f255fcf","fromSide":"bottom","toNode":"4188c5315169bfea","toSide":"top","color":"3"},
-		{"id":"bc5dd992a9597301","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"37fc6ea884191ef6","toSide":"left","color":"3"},
 		{"id":"0abb15888c8ef544","fromNode":"156b9f2f8f255fcf","fromSide":"left","toNode":"b8bce6e4771bfe95","toSide":"right","color":"3"},
 		{"id":"27d6d31248f2ab67","fromNode":"156b9f2f8f255fcf","fromSide":"left","toNode":"e74108b05d4bdc77","toSide":"right","color":"3"},
 		{"id":"3fb4a568e98bd7f4","fromNode":"156b9f2f8f255fcf","fromSide":"left","toNode":"af09b441aece7abc","toSide":"right","color":"3"},
 		{"id":"6dd878f0239d24c6","fromNode":"7913a31a31d58a2f","fromSide":"left","toNode":"e77ba11c32f34c54","toSide":"right","color":"5"},
 		{"id":"01605a080954651e","fromNode":"4188c5315169bfea","fromSide":"bottom","toNode":"e77ba11c32f34c54","toSide":"top","color":"5"},
-		{"id":"cb4998af7e6f79d8","fromNode":"37fc6ea884191ef6","fromSide":"right","toNode":"f268ee0a6eaf958d","toSide":"left","color":"4"},
 		{"id":"41a5645b532563dc","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"7913a31a31d58a2f","toSide":"top","color":"3"},
 		{"id":"270e372e5161aff0","fromNode":"af09b441aece7abc","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"left","color":"#f084dc"},
 		{"id":"7bb199bd1a56fe06","fromNode":"e77ba11c32f34c54","fromSide":"left","toNode":"bc5d480d8470dd77","toSide":"bottom","color":"#f084dc"},
-		{"id":"8432658e6f4a50ab","fromNode":"bc5d480d8470dd77","fromSide":"right","toNode":"e74108b05d4bdc77","toSide":"bottom","color":"#f084dc"}
+		{"id":"8432658e6f4a50ab","fromNode":"bc5d480d8470dd77","fromSide":"right","toNode":"e74108b05d4bdc77","toSide":"bottom","color":"#f084dc"},
+		{"id":"e174372d19802dad","fromNode":"156b9f2f8f255fcf","fromSide":"right","toNode":"37fc6ea884191ef6","toSide":"top","color":"3"},
+		{"id":"87e92c6822f95f91","fromNode":"37fc6ea884191ef6","fromSide":"left","toNode":"f268ee0a6eaf958d","toSide":"right","color":"4"},
+		{"id":"eb4cb96f71538886","fromNode":"f268ee0a6eaf958d","fromSide":"left","toNode":"62337fd0be973e2e","toSide":"bottom","color":"#f084dc"},
+		{"id":"cf4fba2d2878a9b8","fromNode":"b8bce6e4771bfe95","fromSide":"left","toNode":"62337fd0be973e2e","toSide":"top","color":"#f084dc"},
+		{"id":"064f424d6ab71c63","fromNode":"62337fd0be973e2e","fromSide":"right","toNode":"e74108b05d4bdc77","toSide":"left","color":"#f084dc"},
+		{"id":"d1bffd5bb9b166e3","fromNode":"0ca14d7f835a7f50","fromSide":"bottom","toNode":"bfb0576577f4a6cf","toSide":"top","color":"4"},
+		{"id":"9418ca7ab17f9378","fromNode":"e74108b05d4bdc77","fromSide":"top","toNode":"ab9fb40d1182eee0","toSide":"bottom","color":"1"},
+		{"id":"f757fd1a23a807d9","fromNode":"156b9f2f8f255fcf","fromSide":"top","toNode":"b628f5eea0022f0c","toSide":"bottom","color":"1"}
 	]
 }
